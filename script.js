@@ -21,14 +21,14 @@
         // conditional statement
 
         if(age == 18){
-            output.innerHTML += `<p>Welcome ${name}, you are now an an adult loose equaility</p>`;
+            output.innerHTML += `<p>Welcome ${name}, you are now an adult loose equaility</p>`;
         }
         else {
             output.innerHTML += `<p>Hello ${name}, I am ${age} years old and my email is ${email}</p>`;
         }
 
         if(age == 18){
-            output.innerHTML += `<p>Welcome ${name}, you are now an an adult strict equaility</p>`;
+            output.innerHTML += `<p>Welcome ${name}, you are now an adult strict equaility</p>`;
         }
         else {
             output.innerHTML += `<p>Hello ${name}, I am ${age} years old </p>`;
